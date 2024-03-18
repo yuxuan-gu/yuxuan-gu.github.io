@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
 Sitemap: https://yuxuan-gu.github.io/sitemap.xml
