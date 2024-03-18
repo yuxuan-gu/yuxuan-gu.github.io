@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Yuxuan Gu",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "yuxuan.gu21@imperial.ac.uk",
+    "phone": "+44 (0)7536948529",
+    "url": "https:yuxuan-gu.github.io",
+    "summary": "A third-year EIE student at Imperial who is passionate about ML and its applications",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -35,7 +35,7 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
+      "organization": "Imperial",
       "position": "Lead Organizer",
       "url": "https://example.com",
       "startDate": "2014-04-01",
