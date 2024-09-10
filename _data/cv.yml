@@ -1,97 +1,71 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+    - title: MEng of Electrical and Information Engineering
+      institution: Imperial College London, London, UK
+      year: 2021-2025
+      description: 
+        - Dean's List, top 5% in Year 1 and 2
+        - title: Main moduels
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+          - Advanced Computer Architecture (COMP60001)
+          - Deep learning (ELEC96033)
+          - Computer vision (COMP60006)
+          - Machine learning (ELEC60019)
+          - Statistical signal processing and inference (ELEC60002)
+          - Control systems (ELEC50004, ELEC60008)
+          - Signals and systems (ELEC50009)
+        
+    - title: A Levels & IGCSE
+      institution: Jinling High School, Nanjing, China
+      year: 2019-2021
+      description: 
+        - 4 A*s in Further Maths, Maths, Physics and Chemistry
+        - Accumulative marks Top 1 in China -- 2020 Cambridge Outstanding Learner Award (Best Across Three)
 
-- title: Experience
+- title: Work & Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: CPU Design Internship
+      institution: arm, Cambridge, UK
+      year: 2024.04 - 2024.09
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Helped Central Engineering team design and develop a co-processor that accelerates matrix multiplication for machine learning tasks.
+        - Captured RTL events for performance modeling.
+        - Optimised decoders for better power, performance, and area (PPA) trade-off.
+
+    - title: Part-time Machine Learning Undergraduate Researcher
+      institution: Imperial College London, London, UK
+      year: 2024.03 - 2024.09
+      description: Utilised Graph Neural Network (GNN) to model multiphase fluid flow dynamics for CO2 geological storage, hydrogen storage, and fuel cells using real experimental data
+
+    - title: Undergraduate Researcher
+      institution: Imperial College London, London, UK.
+      year: 2023.07 - 2023.09
       description:
-        - Description 1.
-        - Description 2.
+        - Developed a colour-tracking 4-DOF robotic arm using remote control within ROS2 framework.
+        - Derived forward and inverse kinematics and integrated a USB camera as a sensor within feedback loop.
+        - Utilised a Raspberry Pi for motor control via UART, implemented a remote controller and conducted stability analysis.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Software Engineer
+      institution: Evotrack, London, UK
+      year: 2022.07 - 2022.09
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Analysed usage data of E-vehicles charging stations in Paris and ran k-means clustering to divide stations into clusters.
+        - Achieved 90% accuracy in station utilization prediction using Gradient Boosting models.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Dean's List, top 5%
+    - year: 2022
       items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Dean's List, top 5%
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Violin, Badminton, etc.

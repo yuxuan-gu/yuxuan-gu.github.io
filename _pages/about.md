@@ -2,25 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>yuxuan.gu21@imperial.ac.uk</p>
+    <p>Imperial College London</p>
+    <p>SW7 2AZ, UK</p>
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
+latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my website! 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My name is Yuxuan Gu, and I am currently pursuing an MEng degree in Electrical and Information Engineering (EIE) at [Imperial College London](https://www.imperial.ac.uk/). As a final-year student, I am deeply passionate about both hardware and software engineering, with interests ranging from CPU design and machine learning algorithms to robotics and control systems. My dedication to this field has driven me to excel academically, placing in the **top 5%** of my cohort in both my first and second years, and earning the Dean’s List honor ([[certificate 2022](../assets/pdf/Deans%20list_2022.pdf)], [[certificate 2023](../assets/pdf/Deans_list_2023.pdf)]).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of my studies, I enjoy playing badminton and the violin (see [my performance](https://www.youtube.com/watch?v=2NrQIz41Xvo) at 2022 Christmas concerts with the Chamber Music Society in Imperial College London). Engaging in music and sports allows me to relax, express my creativity, and find inspiration.
